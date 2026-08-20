@@ -1,0 +1,8 @@
+{
+  "name": "gbp-category-builder",
+  "version": "1.0.0",
+  "description": "GBP category generator for dealership groups",
+  "engines": {
+    "node": ">=20"
+  }
+}
